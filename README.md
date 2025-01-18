@@ -17,7 +17,7 @@
 ```
 
 **ICON Website:**
-[fontawesome.com/search]([docs/CONTRIBUTING.md](https://fontawesome.com/search))
+[fontawesome.com/search](https://fontawesome.com/search)
 
 ## CSS 
 >Directory: 
