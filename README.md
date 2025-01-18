@@ -16,6 +16,9 @@
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css');
 ```
 
+**ICON Website:**
+[fontawesome.com/search]([docs/CONTRIBUTING.md](https://fontawesome.com/search))
+
 ## CSS 
 >Directory: 
 >Chat > dist > index.css
